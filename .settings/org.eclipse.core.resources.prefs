@@ -1,0 +1,8 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/doan/configs/WebMvcConfig.java=UTF-8
+encoding//src/main/java/com/doan/controller/ManagerController.java=UTF-8
+encoding//src/main/resources/messages_en.properties=UTF-8
+encoding//src/main/resources/messages_vi.properties=UTF-8
+encoding//src/main/webapp/WEB-INF/views/bieudonam.jsp=UTF-8
+encoding//src/main/webapp/WEB-INF/views/login.jsp=UTF-8
+encoding//src/main/webapp/resources/include/footer.jsp=UTF-8
